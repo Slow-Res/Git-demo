@@ -3,3 +3,5 @@ first attemppt
 we added stuff here for the second time 
 
 we are in the 3rd commit now
+
+we added bad stuff
